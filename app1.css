@@ -1,0 +1,69 @@
+.box {
+  width: 100%;
+  height: 400px;
+  background-color: #10bbde; }
+
+.cwhite {
+  color: white; }
+
+.top-margin {
+  margin-top: -14%; }
+
+h5 {
+  color: #10bbde;
+  letter-spacing: 0.1em; }
+
+.card {
+  border-radius: 15px 15px 15px 15px;
+  box-shadow: -15px 12px 34px -25px  #aaaaaa;
+  height: 350px;
+  margin-bottom: 20px; }
+
+.card:hover {
+  transform: scale(1.1);
+  transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -moz-tranistion: all 500ms ease; }
+
+.b1 {
+  margin-top: 10%; }
+
+.p-size-color {
+  font-size: 20px;
+  color: #657569; }
+
+.btn {
+  color: #10bbde;
+  border-radius: 5px 5px 5px 5px;
+  border-color: #10bbde;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+  cursor: default; }
+
+.btn-primary:hover {
+  background-color: red;
+  border-color: #10bbde; }
+
+a {
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.1em; }
+
+.resize-image {
+  opacity: 0.2;
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.colorgrey {
+  color: #88998c; }
+
+.uline {
+  border-bottom: 3px solid #8fe9ff; }
+
+.set-fontsize {
+  font-size: 12px; }
+
+.navbar-toggler {
+  background-color: white; }
